@@ -1,0 +1,36 @@
+/*
+    @auther: Anees Hikmat
+    @email: aneeshikmat@gmail.com
+*/
+
+/* Hidden class most be use for hide element is examwizerd, usally it's exsists by defualt in bootstrap' */
+.hidden {
+    display: none!important;
+}
+
+/* Disabled class used for disable element is examwizerd, usally it's exsists by defualt in bootstrap' */
+.disabled {
+    pointer-events: none;
+    cursor: not-allowed;
+    filter: alpha(opacity=65);
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    opacity: .65;
+}
+
+
+/* Temp Style Just For demo */
+body {
+    padding-bottom: 60px;
+    font-family: 'Roboto';
+    background-color: #fafafa;
+}
+
+form {
+    background: #f7f7f7;
+    padding: 20px;
+}
+
+textarea{
+    max-width: 100%;
+}

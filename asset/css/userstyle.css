@@ -1,0 +1,797 @@
+/* CSS Document */
+.loginpge-cnt{
+	overflow:auto;	
+}
+
+.loginpge-logo{
+	position:absolute;
+	left:150px;
+	top:20px;
+}
+
+.login-page, .register-page {
+    background: #d2d6de;
+    background: url(../images/login-bg.jpg) no-repeat;
+        background-size: auto;
+    background-size: cover;
+	background-attachment: fixed;
+}
+
+.btn-primary {
+    background-color: #24f200;
+    border-color: #24f200;
+	
+}
+
+.login-box-body, .register-box-body {
+/*    background: #fff;
+    padding: 20px;
+    border-top: 0;
+    color: #666;*/
+	
+	padding: 20px;
+    border-top: 0;
+    color: #666;
+	
+	box-sizing: border-box;
+	background: #E5E5E5;
+	background-color: rgba(255,255,255,1);
+	border-radius:12px;
+}
+
+.Forgot_Password{
+	margin-bottom:10px;
+	padding-bottom:10px;
+	text-align:right;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.Forgot_Password a{
+	
+	color: rgba(71,71,71,1);
+
+}
+
+.btnLogin{
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(71,71,71,1);
+	text-transform:uppercase;
+	
+	border-radius:4px !important;
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+}
+
+.btnLogin:hover{
+	background-color: #24f200;
+	border-color: #24f200;
+}
+
+.nwact-rw{
+	padding-top:10px;
+	padding-bottom:10px;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+.Don_t_yet_have_an_account__ {
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 16px;
+	color: rgba(71,71,71,1);
+}
+
+.Sign_Up {
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	
+}
+
+.Sign_Up a{
+	color: rgba(71,71,71,1);
+}
+
+.form-group {
+    margin-bottom: 20px;
+	margin-top:20px;
+	overflow:auto;
+}
+
+/* user portal interface */
+
+.skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side {
+	
+	background: rgb(35,128,17);
+
+	background: linear-gradient(180deg, rgba(35,128,17,0.01) 1%, rgba(35,128,17,1) 21%);
+}
+
+.sidebar-menu > li {
+    position: relative;
+    margin: 0;
+    padding: 0;
+	background-color:#238011;
+	margin-bottom:10px;
+	box-shadow: 0px 15px 10px -15px #111;   
+}
+
+.skin-blue .sidebar a {
+    color: #ffffff;
+}
+
+.skin-blue .sidebar-menu > li:hover > a, .skin-blue .sidebar-menu > li.active > a, .skin-blue .sidebar-menu > li.menu-open > a, .skin-blue .sidebar-menu > li.active > a > .fa {
+    color: #1a1a1a !important;
+    background:#3fdb1c;
+}
+
+.skin-blue .sidebar-menu > li.active > a {
+    border-left-color: #ffffff;
+}
+
+.skin-blue .sidebar-menu > li > a {
+    border-left: 4px solid transparent;
+        border-left-color: transparent;
+}
+
+.skin-blue .user-panel > .info, .skin-blue .user-panel > .info > a {
+    color: #FFFFFF !important;
+}
+
+
+.skin-blue .sidebar-menu > li > a > .fa{
+	color: #FFFFFF;
+}
+
+.skin-blue .main-header .navbar {
+    background-color: #1f502e;
+}
+
+.skin-blue .main-header .navbar .sidebar-toggle:hover {
+    background-color: #1f502e;
+}
+
+.skin-blue .main-header .logo {
+    background-color: #238011;
+    color: #fff;
+    border-bottom: 0 solid transparent;
+}
+
+.skin-blue .main-header .logo:hover {
+    background-color: #238011;
+}
+
+.main-header .logo img{
+	width:50px;
+}
+
+
+.box {
+    border-top: 3px solid #238011 !important;
+}
+
+
+.box.box-default {
+    border-top-color: #238011 !important;
+}
+
+.skin-blue .main-header li.user-header {
+    background-color: #238011;
+}
+
+
+.main-footer {
+  background: #2d2d2d;
+  padding: 15px;
+  color: #fff;
+  border-top: 1px solid #d2d6de;
+}
+
+/* user portal interface ends */
+
+.small-box > .inner a{
+	color:inherit;
+}
+
+.box-title{
+	font-weight:600;
+}
+
+.userDashb-pend{
+	text-align:center;
+	font-size:18px;
+}
+
+.userDashb-wallet{
+	padding-top:8px;
+}
+
+.userDashb-wallet span{
+	font-size:20px;
+	padding-top:5px;
+}
+
+.userDashb-depo ul li{
+	display:inline-block;
+	float:left;
+	border-right:1px solid #2d2d2d;
+	padding-left:10px;
+	padding-right:10px;
+	font-size:16px;
+	font-weight:700;
+}
+
+.userDashb-depo ul li a{
+	color:#0F0;
+}
+
+.userDashb-depo ul li:last-child{
+	border:none;
+}
+
+.userDashb-depo ul li:last-child a{
+	color:#F00;
+}
+
+.userDashb-cnt{
+	padding-left:0px;
+	padding-bottom:8px;
+	padding-top:8px;
+}
+
+.userDashb-left{
+	font-size:16px;
+	font-weight:500;
+	margin-bottom:10px;
+}
+
+.userDashb-left > i{
+	margin-right:10px;
+}
+
+.userDashb-right{
+	font-size:16px;
+	font-weight:500;
+	margin-bottom:10px;
+}
+
+.userDashb-pending{
+	padding-left:5px;
+	padding-right:5px;
+	padding-bottom:3px;
+	padding-top:3px;
+	border-radius:4px;
+}
+
+.userDashb-edit{
+	font-size:18px;
+	padding-right:20px;
+}
+
+.nvbr-bal{
+	padding-top:6px;
+	padding-bottom:5px;
+	padding-right:5px;
+	font-size:18px;
+	color:#FFF;
+	font-weight:700;
+}
+
+.nvbr-bal a{
+	color:#fff;
+}
+
+.userDashb-buysellBtn-cnt{
+	text-align:center;
+	padding-bottom:20px;
+	padding-top:20px;
+	margin-bottom:20px;
+}
+
+.userDashb-buysellBtn{
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	background:#FFF;
+	padding-left:80px;
+	padding-right:80px;
+	padding-bottom:15px;
+	margin-bottom:15px;
+	margin-left:15px;
+	margin-right:15px;
+	padding-top:15px;
+	text-transform:uppercase;
+	border-radius:4px;
+	-webkit-box-shadow: -1px 1px 5px 3px rgba(153,147,153,1);
+	-moz-box-shadow: -1px 1px 5px 3px rgba(153,147,153,1);
+	box-shadow: -1px 1px 5px 3px rgba(153,147,153,1);
+	
+}
+
+.useract-exchangeRate-cnt{
+	padding-bottom:10px;
+	padding-top:10px;
+	overflow:auto;
+}
+
+.useract-exchangeRate-cnt-rte{
+	font-size: 16px;
+}
+
+.exchange-icn{
+	text-align:center;
+	padding-top:10px;
+}
+
+.exchange-wallet-processor-cnt{
+	margin-top:10px;
+	background-color:#F9FAFC;
+	padding-bottom:10px;
+	padding-top:15px;
+	padding-bottom:15px;
+}
+
+.exchange-wallet-processor-txt{
+	font-size:16px;
+	margin-bottom:10px;
+	padding-left:15px;
+	font-weight:600;
+}
+
+.exchange-wallet-processor-tap-cnt{
+	/*text-align:right;*/
+	padding-right:10px;
+	padding-top:5px;
+}
+
+.exchange-wallet-processor-tap-cnt span{
+	cursor:pointer;
+	padding-left:15px;
+	padding-right:15px;
+	padding-top:6px;
+	padding-bottom:6px;
+	border:1px solid #CCC;
+	border-radius:4px;
+	background: #c1e9bd;
+}
+
+.exchange-wallet-processor-addr{
+	padding-left:15px;
+	padding-top:5px;
+	font-weight:600;
+	font-size:14px;
+}
+
+.buy-account-details{
+	overflow:auto;
+	padding-bottom:20px;
+}
+
+.buy-company-name{
+	font-size:16px;
+	font-weight:500;	
+}
+
+.buy-bank-name{
+	font-size:14px;
+	font-weight:500;
+}
+
+.buy-account-no{
+	font-size:12px;
+	font-weight:500;
+}
+
+.no-padding-left{
+	padding-left:0px !important;
+}
+
+.no-padding-right{
+	padding-right:0px !important;
+}
+
+.no-padding-left-right{
+	padding-left:0px !important;
+	padding-right:0px !important;
+}
+
+.no-pad{
+	padding-left:0px;
+	padding-right:0px;
+}
+
+.no-pad-left{
+	padding-left:0px;
+	
+}
+
+.no-pad-right{
+	padding-right:0px;
+}
+
+.applyfin-lst{
+	background-color:#f2f2f2;
+	border-radius:12px;
+	padding-bottom:20px;
+	padding-top:20px;
+	padding-left:20px;
+	padding-right:20px;
+	margin-bottom:20px;
+	margin-top:20px;
+	min-height:400px;
+}
+
+.applyfin-lst ul li{
+	list-style:none;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-right:10px;
+	line-height:28px;
+	border-bottom:1px solid #000;
+}
+
+.applyfin-lst ul li:first-child{
+	font-size:16px;
+	font-weight:600;
+	padding-bottom:20px;
+	margin-bottom:20px;
+}
+
+
+.applyfin-lst ul li.applyfin-lst-hdr-first{
+	border-bottom:4px solid #40db1d;	
+}
+
+.applyfin-lst ul li.applyfin-lst-hdr-second{
+	border-bottom:4px solid #248011;	
+}
+
+.applyfin-lst ul li.applyfin-lst-hdr-third{
+	border-bottom:4px solid #ACE814;	
+}
+
+.applyfin-lst ul li:first-child span{
+  text-align:center;
+  height: 35px;
+  width: 35px;
+  border:4px solid #FF0;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  position:absolute;
+  top:0px;
+  left:0px;
+}
+
+.applyfin-lst ul li:last-child
+{
+	border-bottom:none;
+}
+
+.applyfin-lst ul li.applyfin-lst-hdr-first span{
+	
+	border-color:#40db1d;		
+}
+
+.applyfin-lst ul li.applyfin-lst-hdr-second span{
+	
+	border-color:#248011;	
+}
+
+.applyfin-lst ul li.applyfin-lst-hdr-third span{
+	border-color:#ACE814;	
+}
+
+.finance-steps-cont-btn{
+	
+}
+
+.finance-steps-cont-btn .readon{
+	width:100%;
+	text-align:center;
+    display: inline-block;
+	padding-top: 14px;
+	padding-bottom: 12px;
+	padding-left: 24px;
+	padding-right: 24px;
+	margin-top: 16px;
+	margin-bottom: 0px;
+	border: none;
+	cursor: pointer;
+	letter-spacing: 0;
+	text-decoration: none;
+	box-shadow: none;
+	font-size: 15px;
+	line-height: 20px;
+	color: #FFFFFF !important;
+	font-weight: 500;
+/*	background: #7DBA2F !important;
+*/	text-transform:uppercase;
+}
+
+a.step1-btn {
+    background-color: #7DBA2F !important;
+}
+
+a.step2-btn {
+    background-color: #248011 !important;
+}
+
+a.step3-btn {
+    background-color: #ACE814 !important;
+}
+
+.wallet-container{
+	overflow:auto;
+	padding-bottom:50px;
+	padding-top:20px;
+}
+
+.wallet-container-avail{
+	padding-bottom:10px;
+	padding-top:10px;
+}
+
+.wallet-container-figure{
+	font-size:40px;
+	font-weight:500;
+	padding-bottom:20px;
+	padding-top:10px;
+}
+
+.wallet-container-withdraw{
+	text-align:right;
+	padding-top:30px;
+}
+
+.wallet-container-withdraw span{
+	background:#2d9cdb;
+	color:#fff;
+	border: 1px solid #2d9cdb;
+	border-radius: 3px;
+	padding-left:20px;
+	padding-right:20px;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+.text-green-dark {
+    color: #00d67d;
+}
+
+.text-orange, .text-orange:focus, .text-orange:hover {
+    color: #ff9800 !important;
+}
+
+.help-block {
+    margin-bottom: 0px;
+
+}
+
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+.switch input { 
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #2196F3;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+.proofuploadcountdown{
+	font-size:14px;
+	font-weight:600;
+}
+
+.user-panel > .image > img {
+   /* max-width: 150px;
+    max-height: 50px;*/
+	width: 45px;
+	height: 45px;
+	border-radius: 50%;
+}
+
+a.disabled {
+
+  pointer-events: none;
+  cursor: default;
+}
+
+@media (min-width: 1280px) and (max-width: 1366px) {
+
+}
+
+@media (min-width: 993px) and (max-width: 1199px){
+	
+	
+	.loginpge-logo {
+		position: absolute;
+		left: 90px;
+		top: 10px;
+	}
+	
+	.login-box, .register-box {
+		width: 360px;
+		margin: 8% auto;
+		margin-top:15%;
+
+	}
+	
+	.login-logo, .register-logo {
+		font-size: 30px;
+		margin-bottom: 10px;
+
+	}
+	
+	.applyfin-lst{
+		/*background-color:#f2f2f2;
+		border-radius:12px;
+		padding-bottom:20px;
+		padding-top:20px;
+		padding-left:20px;
+		padding-right:20px;
+		margin-bottom:20px;
+		margin-top:20px;*/
+		min-height:612px;
+	}
+	
+	
+}
+
+@media (max-width: 800px) {
+
+
+	.loginpge-cnt{
+		margin-bottom:130px;	
+	}
+	
+	.loginpge-logo{
+		position:absolute;
+		left:28px;
+		top:30px;
+	}
+}
+
+@media (max-width: 667px){
+	
+	.loginpge-cnt{
+		margin-bottom:130px;	
+	}
+	
+	.regpge-cnt{
+		
+		margin-bottom:130px;
+	}
+
+	.loginpge-logo{
+		position:absolute;
+		left:15px;
+		top:15px;
+	}
+}
+
+@media (max-width: 480px){
+	
+	.loginpge-cnt {
+		margin-bottom: 130px;
+	}
+
+	.loginpge-logo{
+		position:absolute;
+		left:15px;
+		top:15px;
+	}
+	
+	.userDashb-buysellBtn-cnt{
+		overflow:hidden;
+		margin-bottom:10px;
+	}
+	
+	.userDashb-buysellBtn{
+		width:80%;
+		text-align: left !important;
+		padding-left:42px;
+		padding-right:42px;
+		margin-bottom:10px;
+	}
+	
+	.nvbr-bal{
+		font-weight:600;
+		font-size:16px;
+	}
+	
+	.userDashb-left{
+		font-size:13px;
+	}
+	
+	.userDashb-depo ul{
+		padding-left:0px;
+	}
+	
+}
+
+@media(max-width: 378px){
+	
+	.small-box p {
+		font-size: 11px;
+	}
+	
+	.exchange-wallet-processor-tap-cnt span{
+		font-size:12px;
+		
+	}
+}
+
+@media (max-width: 360px) {
+	
+
+}
+
+@media (max-width: 320px) {
+
+}

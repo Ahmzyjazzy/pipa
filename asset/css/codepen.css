@@ -1,0 +1,714 @@
+
+/* general information */
+#n310_24 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: rgb(255, 255, 255);
+}
+ 
+ 
+		/* Hello Micheal, Lets setup your company profile */
+		#n310_50 {
+			font-family: Poppins;
+			font-size: 32px;
+			font-weight: 700;
+			letter-spacing: 0px;
+			color: rgb(0, 117, 255);
+			vertical-align: middle;
+			width: 764px;
+			transform: translate(0px, -11.3067px);
+			line-height: 64px;
+			height: 64px;
+			left: 408px;
+			top: 90px;
+		}
+ 
+		/* Please provide us with your general information about your company */
+		#n310_51 {
+			font-family: Poppins;
+			font-size: 14px;
+			font-weight: 400;
+			letter-spacing: 0px;
+			color: rgb(0, 91, 199);
+			vertical-align: middle;
+			justify-content: flex-start;
+			width: 487px;
+			transform: translate(0px, 0px);
+			line-height: 16.4063px;
+			height: 21px;
+			left: 408px;
+			top: 146px;
+		}
+ 
+		/* Rectangle 96 */
+		#n310_52 {
+			background: rgb(255, 255, 255);
+			border-radius: 8px;
+			box-shadow: rgba(0, 0, 0, 0.11) 0px 0px 16px 0px;
+			left: 408px;
+			width: 904px;
+			top: 177px;
+			height: 583px;
+		}
+ 
+ 
+ 
+				/* Rectangle 76 */
+				#n310_55 {
+					border-radius: 4px;
+					box-shadow: rgb(0, 113, 246) 0px 0px 0px 1px inset;
+					left: 510px;
+					width: 341px;
+					top: 292px;
+					height: 60px;
+				}
+ 
+				/* Rectangle 77 */
+				#n310_56 {
+					background: rgb(243, 248, 255);
+					border-radius: 4px;
+					box-shadow: rgb(0, 91, 199) 0px 0px 0px 1px inset;
+					left: 870px;
+					width: 340px;
+					top: 292px;
+					height: 60px;
+				}
+ 
+			/* Industry */
+			#n310_57 {
+				font-family: Poppins;
+				font-size: 14px;
+				font-weight: 400;
+				letter-spacing: 0px;
+				color: rgb(0, 113, 246);
+				vertical-align: middle;
+				justify-content: flex-start;
+				width: 57px;
+				transform: translate(0px, 0px);
+				line-height: 16.4063px;
+				height: 21px;
+				left: 890px;
+				top: 312px;
+			}
+ 
+ 
+				/* Rectangle 83 */
+				#n310_59 {
+					background: rgb(255, 255, 255);
+					left: 530px;
+					width: 107px;
+					top: 285px;
+					height: 13px;
+				}
+ 
+				/* Company name */
+				#n310_60 {
+					font-family: Poppins;
+					font-size: 12px;
+					font-weight: 400;
+					letter-spacing: 0px;
+					color: rgb(0, 113, 246);
+					vertical-align: middle;
+					justify-content: flex-start;
+					width: 99px;
+					transform: translate(0px, 0px);
+					line-height: 14.0625px;
+					height: 18px;
+					left: 534px;
+					top: 283px;
+				}
+ 
+			/* Vector 17 */
+			#n310_61 {
+				left: 530px;
+				width: 0px;
+				top: 310px;
+				height: 25px;
+			}
+ 
+ 
+ 
+				/* Rectangle 78 */
+				#n310_86 {
+					background: rgb(0, 113, 246);
+					border-radius: 4px;
+					left: 510px;
+					width: 700px;
+					top: 654px;
+					height: 60px;
+				}
+ 
+ 
+				/* Rectangle 77 */
+				#n310_82 {
+					background: rgb(243, 248, 255);
+					border-radius: 4px;
+					box-shadow: rgb(0, 91, 199) 0px 0px 0px 1px inset;
+					left: 510px;
+					width: 700px;
+					top: 392px;
+					height: 112px;
+				}
+ 
+				/* Company Address */
+				#n310_83 {
+					font-family: Poppins;
+					font-size: 14px;
+					font-weight: 400;
+					letter-spacing: 0px;
+					color: rgb(0, 113, 246);
+					vertical-align: middle;
+					justify-content: flex-start;
+					width: 131px;
+					transform: translate(0px, 0px);
+					line-height: 16.4063px;
+					height: 21px;
+					left: 530px;
+					top: 412px;
+				}
+ 
+		/* Vector 18 */
+		#n310_71 {
+			left: 1172px;
+			width: 18px;
+			top: 317.5px;
+			height: 9px;
+		}
+ 
+ 
+ 
+				/* Rectangle 77 */
+				#n310_84 {
+					background: rgb(243, 248, 255);
+					border-radius: 4px;
+					box-shadow: rgb(0, 91, 199) 0px 0px 0px 1px inset;
+					left: 510px;
+					width: 341px;
+					top: 544px;
+					height: 60px;
+				}
+ 
+				/* Countries of operation */
+				#n310_85 {
+					font-family: Poppins;
+					font-size: 14px;
+					font-weight: 400;
+					letter-spacing: 0px;
+					color: rgb(0, 113, 246);
+					vertical-align: middle;
+					justify-content: flex-start;
+					width: 157px;
+					transform: translate(0px, 0px);
+					line-height: 16.4063px;
+					height: 21px;
+					left: 530px;
+					top: 564px;
+				}
+ 
+				/* Vector 19 */
+				#n310_72 {
+					left: 812px;
+					width: 18px;
+					top: 569.5px;
+					height: 9px;
+				}
+ 
+ 
+ 
+ 
+						/* Rectangle 77 */
+						#n310_65 {
+							background: rgb(243, 248, 255);
+							border-radius: 4px;
+							box-shadow: rgb(0, 91, 199) 0px 0px 0px 1px inset;
+							left: 870px;
+							width: 341px;
+							top: 544px;
+							height: 60px;
+						}
+ 
+					/* Number of employees */
+					#n310_66 {
+						font-family: Poppins;
+						font-size: 14px;
+						font-weight: 400;
+						letter-spacing: 0px;
+						color: rgb(0, 113, 246);
+						vertical-align: middle;
+						justify-content: flex-start;
+						width: 156px;
+						transform: translate(0px, 0px);
+						line-height: 16.4063px;
+						height: 21px;
+						left: 890px;
+						top: 564px;
+					}
+ 
+ 
+					/* Vector 20 */
+					#n310_77 {
+						left: 1172px;
+						width: 18px;
+						top: 569.5px;
+						height: 9px;
+					}
+ 
+	/* Ellipse 4 */
+	#n310_89 {
+		width: 45px;
+		height: 45px;
+		left: 510px;
+		top: 212px;
+	}
+ 
+	/* Ellipse 5 */
+	#n310_90 {
+		width: 45px;
+		height: 45px;
+		left: 838px;
+		top: 212px;
+	}
+ 
+	/* Ellipse 6 */
+	#n310_91 {
+		width: 45px;
+		height: 45px;
+		left: 1166px;
+		top: 212px;
+	}
+ 
+	/* Rectangle 90 */
+	#n310_92 {
+		background: rgb(0, 113, 246);
+		border-radius: 15px;
+		left: 562px;
+		width: 265px;
+		top: 233px;
+		height: 2px;
+	}
+ 
+	/* Rectangle 91 */
+	#n310_94 {
+		background: rgb(0, 113, 246);
+		border-radius: 15px;
+		left: 892px;
+		width: 265px;
+		top: 233px;
+		height: 2px;
+	}
+ 
+	/* company 1 */
+	#n310_95 {
+		width: 25px;
+		height: 25px;
+		overflow: hidden;
+		left: 520px;
+		top: 222px;
+	}
+ 
+ 
+			/* Vector */
+			#n310_97 {
+				left: 82.4219%;
+				top: 11.72%;
+			}
+ 
+			/* Vector */
+			#n310_98 {
+				right: 82.4219%;
+				top: 11.72%;
+			}
+ 
+			/* Vector */
+			#n310_99 {
+				left: 41.0156%;
+				right: 41.0156%;
+				top: 17.58%;
+				bottom: 76.76%;
+			}
+ 
+			/* Vector */
+			#n310_100 {
+				left: 41.0156%;
+				right: 41.0156%;
+				top: 64.26%;
+				bottom: 29.88%;
+			}
+ 
+			/* Vector */
+			#n310_101 {
+				left: 41.0156%;
+				right: 41.0156%;
+				top: 41.02%;
+				bottom: 53.32%;
+			}
+ 
+			/* Vector */
+			#n310_102 {
+				left: 52.9297%;
+				right: 41.0156%;
+				top: 75.98%;
+			}
+ 
+			/* Vector */
+			#n310_103 {
+				left: 41.0156%;
+				right: 52.9297%;
+				top: 75.98%;
+			}
+ 
+			/* Vector */
+			#n310_104 {
+				left: 23.4375%;
+				right: 23.4375%;
+			}
+ 
+	/* Continue */
+	#n310_105 {
+		font-family: Poppins;
+		font-size: 16px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(255, 255, 255);
+		vertical-align: middle;
+		justify-content: flex-start;
+		width: 73px;
+		transform: translate(0px, -2.24px);
+		line-height: 24px;
+		height: 24px;
+		left: 824px;
+		top: 672px;
+	}
+ 
+	/* brand 1 */
+	#n310_176 {
+		width: 25px;
+		height: 25px;
+		overflow: hidden;
+		left: 1176px;
+		top: 222px;
+	}
+ 
+		/* Vector */
+		#n310_177 {
+			right: 10.807%;
+			top: 45.33%;
+		}
+ 
+		/* Vector */
+		#n310_178 {
+			left: 11.908%;
+			right: 22.715%;
+			bottom: 25%;
+		}
+ 
+		/* Vector */
+		#n310_179 {
+			left: 27.4742%;
+			right: 66.6664%;
+			top: 17.51%;
+			bottom: 76.63%;
+		}
+ 
+		/* Vector */
+		#n310_180 {
+			left: 55.0133%;
+			right: -3.05176e-05%;
+			top: 28.33%;
+			bottom: 43.07%;
+		}
+ 
+	/* business-card 1 */
+	#n310_181 {
+		width: 25px;
+		height: 25px;
+		overflow: hidden;
+		left: 848px;
+		top: 223px;
+	}
+ 
+		/* Vector */
+		#n310_182 {
+			background: rgb(158, 203, 255);
+			left: 2.14844%;
+			right: 2.73438%;
+			top: 21.48%;
+			bottom: 20.31%;
+		}
+ 
+		/* Vector */
+		#n310_183 {
+			background: rgb(255, 255, 255);
+			left: 22.1803%;
+			right: 61.0532%;
+			top: 34.03%;
+			bottom: 49.41%;
+		}
+ 
+		/* Vector */
+		#n310_184 {
+			background: rgb(255, 255, 255);
+			left: 12.6097%;
+
+			right: 78.4094%;
+			top: 41.72%;
+			bottom: 49.42%;
+		}
+ 
+		/* Vector */
+		#n310_185 {
+			background: rgb(158, 203, 255);
+			top: 18.75%;
+			bottom: 18.75%;
+		}
+ 
+		/* Vector */
+		#n310_186 {
+			background: rgb(255, 255, 255);
+			left: 8.33142%;
+			right: 58.3313%;
+			top: 29.86%;
+			bottom: 47.92%;
+		}
+ 
+		/* Vector */
+		#n310_187 {
+			background: rgb(0, 91, 199);
+			left: 54.1688%;
+			right: 8.33124%;
+			top: 68.75%;
+			bottom: 27.08%;
+		}
+ 
+		/* Vector */
+		#n310_188 {
+			background: rgb(0, 91, 199);
+			left: 70.8312%;
+			right: 8.33127%;
+			top: 60.42%;
+			bottom: 35.42%;
+		}
+ 
+	/* Rectangle 38 */
+	#n310_25 {
+		background: rgb(255, 255, 255);
+		box-shadow: rgba(0, 0, 0, 0.11) 0px 0px 16px 0px;
+		left: 280px;
+		width: 1160px;
+		height: 60px;
+	}
+ 
+	/* Frame 97 */
+	#n310_26 {
+		width: 280px;
+		height: 793px;
+		overflow: hidden;
+		background: rgb(0, 113, 246);
+		box-shadow: rgba(0, 0, 0, 0.11) 0px 0px 16px 0px;
+	}
+ 
+ 
+			/* Rectangle 37 */
+			#n310_28 {
+				background: rgb(255, 255, 255);
+				width: 280px;
+				height: 102px;
+			}
+ 
+			/* Ellipse 3 */
+			#n310_29 {
+				width: 60px;
+				height: 60px;
+				left: 20px;
+				top: 21px;
+			}
+ 
+			/* Micheal thomson */
+			#n310_30 {
+				font-family: Poppins;
+				font-size: 16px;
+				font-weight: 400;
+				letter-spacing: 0px;
+				color: rgb(0, 113, 246);
+				vertical-align: middle;
+				justify-content: flex-start;
+				width: 139px;
+				transform: translate(0px, 0px);
+				line-height: 18.75px;
+				height: 24px;
+				left: 99px;
+				top: 21px;
+			}
+ 
+			/* HR client */
+			#n310_31 {
+				font-family: Poppins;
+				font-size: 14px;
+				font-weight: 400;
+				letter-spacing: 0px;
+				color: rgb(112, 167, 231);
+				vertical-align: middle;
+				justify-content: flex-start;
+				width: 61px;
+				transform: translate(0px, 0px);
+				line-height: 16.4063px;
+				height: 21px;
+				left: 99px;
+				top: 50px;
+			}
+ 
+			/* Vector 8 */
+			#n310_32 {
+				left: 248.5px;
+				width: 12px;
+				top: 55.5px;
+				height: 6px;
+			}
+ 
+ 
+			/* Rectangle 90 */
+			#n310_34 {
+				background: rgb(255, 255, 255);
+				border-radius: 15px;
+				left: 25px;
+				width: 236px;
+				top: 143px;
+				height: 20px;
+			}
+ 
+ 
+			/* Rectangle 92 */
+			#n310_36 {
+				background: rgb(2, 104, 223);
+				border-radius: 15px;
+				left: 25px;
+				width: 211px;
+				top: 203px;
+				height: 20px;
+			}
+ 
+ 
+			/* Rectangle 94 */
+			#n310_39 {
+				background: rgb(2, 104, 223);
+				border-radius: 15px;
+				left: 25px;
+				width: 168px;
+				top: 263px;
+				height: 20px;
+			}
+ 
+ 
+			/* Rectangle 94 */
+			#n310_42 {
+				background: rgb(2, 104, 223);
+				border-radius: 15px;
+				left: 25px;
+				width: 113px;
+				top: 323px;
+				height: 20px;
+			}
+ 
+ 
+			/* Rectangle 94 */
+			#n310_45 {
+				background: rgb(2, 104, 223);
+				border-radius: 15px;
+				left: 25px;
+				width: 192px;
+				top: 383px;
+				height: 20px;
+			}
+ 
+ 
+			/* Rectangle 94 */
+			#n310_48 {
+				background: rgb(2, 104, 223);
+				border-radius: 15px;
+				left: 25px;
+				width: 146px;
+				top: 443px;
+				height: 20px;
+			}
+ 
+		/* Rectangle 95 */
+		#n324_18 {
+			background: rgb(255, 255, 255);
+			border-radius: 15px;
+			left: 25px;
+			width: 168px;
+			top: 593px;
+			height: 20px;
+		}
+ 
+		/* Rectangle 96 */
+		#n324_20 {
+			background: rgb(255, 255, 255);
+			border-radius: 15px;
+			left: 241px;
+			width: 20px;
+			top: 593px;
+			height: 20px;
+		}
+ 
+		/* Rectangle 94 */
+		#n324_19 {
+			background: rgb(2, 104, 223);
+			border-radius: 15px;
+			left: 25px;
+			width: 211px;
+			top: 653px;
+			height: 20px;
+		}
+ 
+	/* Ellipse 7 */
+	#n324_113 {
+		width: 27px;
+		height: 27px;
+		left: 1117px;
+		top: 17px;
+	}
+ 
+	/* Ellipse 8 */
+	#n324_114 {
+		width: 27px;
+		height: 27px;
+		left: 1179px;
+		top: 17px;
+	}
+ 
+	/* Ellipse 9 */
+	#n324_115 {
+		width: 27px;
+		height: 27px;
+		left: 1241px;
+		top: 17px;
+	}
+ 
+ 
+		/* Ellipse 10 */
+		#n324_116 {
+			width: 40px;
+			height: 40px;
+			left: 1351px;
+			top: 10px;
+		}
+ 
+		/* M */
+		#n324_117 {
+			font-family: Poppins;
+			font-size: 24px;
+			font-weight: 700;
+			letter-spacing: 0px;
+			color: rgb(255, 255, 255);
+			vertical-align: middle;
+			justify-content: flex-start;
+			width: 23px;
+			transform: translate(0px, 0px);
+			line-height: 28.125px;
+			height: 36px;
+			left: 1360px;
+			top: 12px;
+		}/* CSS Document */
+
